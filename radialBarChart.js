@@ -16,15 +16,15 @@ function drawRadialBarChart(dataFile) {
   var svg = d3v4
     .select("#chartDiv")
     .append("svg")
-    .attr("width", 800)
-    .attr("height", 800)
+    .attr("width", 550)
+    .attr("height", 550)
     .attr("class", "charts");
   // .attr("font-size", "10px")
   // font-family="sans-serif"
   //         font-size="8"
   //         class="charts"
-  width = 800; //+svg.attr("width"),
-  height = 800; //+svg.attr("height"),
+  width = 520; //+svg.attr("width"),
+  height = 520; //+svg.attr("height"),
   (innerRadius = 120),
     (outerRadius = Math.min(width, height) / 2),
     (g = svg
