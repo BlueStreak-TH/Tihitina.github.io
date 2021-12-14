@@ -1,0 +1,60 @@
+State,deaths,cases
+Alameda,1516.0,126762
+Alpine,0.0,109
+Amador,69.0,5858
+Butte,326.0,25830
+Calaveras,89.0,4539
+Colusa,21.0,3314
+Contra Costa,1061.0,105074
+Del Norte,42.0,3915
+El Dorado,170.0,18636
+Fresno,2294.0,158802
+Glenn,51.0,4622
+Humboldt,120.0,10455
+Imperial,781.0,39462
+Inyo,46.0,2611
+Kern,1870.0,159721
+Kings,373.0,35733
+Lake,114.0,7090
+Lassen,61.0,8029
+Los Angeles,27325.0,1546287
+Madera,315.0,26666
+Marin,249.0,18895
+Mariposa,18.0,1648
+Mendocino,100.0,8817
+Merced,685.0,46068
+Modoc,10.0,1071
+Mono,4.0,1946
+Monterey,636.0,53328
+Napa,107.0,13583
+Nevada,106.0,10238
+Orange,5814.0,337937
+Placer,481.0,43002
+Plumas,12.0,1990
+Riverside,5502.0,393195
+Sacramento,2479.0,170836
+San Benito,79.0,8004
+San Bernardino,6007.0,380385
+San Diego,4374.0,415069
+San Francisco,678.0,57773
+San Joaquin,1842.0,108876
+San Luis Obispo,366.0,31940
+San Mateo,631.0,57192
+Santa Barbara,559.0,48090
+Santa Clara,1942.0,154536
+Santa Cruz,225.0,22684
+Shasta,470.0,26472
+Sierra,0.0,222
+Siskiyou,74.0,4982
+Solano,365.0,48216
+Sonoma,416.0,43811
+Stanislaus,1452.0,92709
+Sutter,187.0,14771
+Tehama,134.0,10363
+Trinity,17.0,1028
+Tulare,1103.0,87521
+Tuolumne,146.0,7979
+Unknown,0.0,32022
+Ventura,1195.0,105311
+Yolo,267.0,21914
+Yuba,92.0,11376
